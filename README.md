@@ -7,7 +7,9 @@ The app works by allowing users to type in the name of an author. It then prompt
 While it’s not terribly sophisticated, the goal is to demonstrate a basic understanding of integrating software with an API, formatting the response, and utilizing it with TypeScript, HTML, and Tailwind.
 
 This showcase is part of a larger project that uses Prisma to add, delete, and update author lists. The prisma stuff was too many files, so I just added the important files, which shows 90% of the material.
-See Screenshots of the app working, I spent some time on the styling, it looks quite nice.
+See Screenshots of the app working, I did a little styling, it looks quite nice.
+
+
 ![Screenshot from 2024-11-24 16-17-50](https://github.com/user-attachments/assets/52b68b02-14b0-4108-a953-48a88cd5e4f4)![Screenshot from 2024-11-24 16-17-42](https://github.com/user-attachments/assets/50d06157-6d8d-4cd1-8f36-1caea9ca5fca)
 
 
