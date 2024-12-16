@@ -1,4 +1,4 @@
-This is a showcase project I created: a basic book finder using the OpenAI API.
+This is a showcase project I created: a basic book finder using the OpenAI API. It can be configured to do just about anything, by updating the completion const, and redoing the formatting.
 
 It’s built with Next.js, TypeScript, and Prisma, using the WASP framework, which should explain some of the import statements.
 Check out the Bookfinder AI Showcase File and the DemoAppPage for details on the app's formatting and logistics. The operations.ts file contains most of the AI API-related code.
