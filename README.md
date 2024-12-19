@@ -1,6 +1,7 @@
 This is a showcase project I created: a basic book finder using the OpenAI API. It can be configured to do just about anything, by updating the completion const, and redoing the formatting.
 
 It’s built with Next.js, TypeScript, and Prisma, using the WASP framework, which should explain some of the import statements.
+Fully working backend Postgres server hosted on Docker.
 Check out the Bookfinder AI Showcase File and the DemoAppPage for details on the app's formatting and logistics. The operations.ts file contains most of the AI API-related code.
 
 The app works by allowing users to type in the name of an author. It then prompts the OpenAI API, which returns a list of every book, article, comic, etc., written by that author in a format called "task."
